@@ -1,0 +1,17 @@
+﻿Build started 17.11.2015 11:03:05.
+     1>Project "E:\TSet_2\TSet_2\TSet_2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\TSet_2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         TSet_2.vcxproj -> E:\TSet_2\Debug\TSet_2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\TSet_2.unsuccessfulbuild".
+         Touching "Debug\TSet_2.lastbuildstate".
+     1>Done Building Project "E:\TSet_2\TSet_2\TSet_2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
